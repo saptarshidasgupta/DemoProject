@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="199140" started-at="2020-03-04T21:23:08Z" finished-at="2020-03-04T21:26:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="199140" started-at="2020-03-04T21:23:08Z" finished-at="2020-03-04T21:26:27Z">
+      <class name="Runner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:Runner.TestRunner@e45f292]" name="setUpClass" is-config="true" duration-ms="581" started-at="2020-03-04T21:23:08Z" finished-at="2020-03-04T21:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.TestRunner@e45f292]" name="feature" duration-ms="142386" started-at="2020-03-04T21:23:09Z" data-provider="features" finished-at="2020-03-04T21:25:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Free CRM login feature]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.TestRunner@e45f292]" name="feature" duration-ms="55629" started-at="2020-03-04T21:25:31Z" data-provider="features" finished-at="2020-03-04T21:26:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Different options in Free CRM Login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@e45f292]" name="tearDownClass" is-config="true" duration-ms="120" started-at="2020-03-04T21:26:27Z" finished-at="2020-03-04T21:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

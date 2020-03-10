@@ -1,0 +1,933 @@
+03/01/20 21:08:34 INFO  LoginStep:37 - =======================================  HEADER ======================================
+03/01/20 21:08:34 INFO  LoginStep:38 - Scenario :- Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/01/20 21:08:34 INFO  LoginStep:39 - Executed By :- Saptarshi on 01/03/2020 21:08:34
+03/01/20 21:08:34 INFO  LoginStep:40 -     * OS Name :- Windows 8.1 v6.3
+03/01/20 21:08:34 INFO  LoginStep:41 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/01/20 21:08:34 INFO  LoginStep:42 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/01/20 21:08:34 INFO  LoginStep:43 - ======================================================================================
+03/01/20 21:08:34 INFO  LoginStep:44 -  Executing the TestCases
+03/01/20 21:08:34 INFO  LoginStep:88 - Setting Up the Browser
+03/01/20 21:09:05 INFO  LoginStep:98 - Verifying the title of the Web Page
+03/01/20 21:09:05 INFO  LoginStep:100 -  * WebPage Title is as expected. Hence verification successful.
+03/01/20 21:09:05 INFO  LoginStep:110 - Entering user name and password
+03/01/20 21:09:05 INFO  LoginStep:116 - Clicking on the login Button
+03/01/20 21:09:05 INFO  LoginStep:123 - Verifying the title of the Application Page
+03/01/20 21:09:05 WARN  LoginStep:128 -  (!) WebPage Title is not as expected. Hence verification failed.
+03/01/20 21:09:05 ERROR LoginStep:56 - Free CRM Login Test Scenario is Failed
+03/01/20 21:09:05 INFO  LoginStep:57 - =========================================================
+03/01/20 21:09:05 FATAL LoginStep:58 - Closing the Scenario : Free CRM Login Test Scenario
+03/01/20 21:09:05 INFO  LoginStep:59 - =========================================================
+03/01/20 21:09:12 INFO  LoginStep:37 - =======================================  HEADER ======================================
+03/01/20 21:09:12 INFO  LoginStep:38 - Scenario :- Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/01/20 21:09:12 INFO  LoginStep:39 - Executed By :- Saptarshi on 01/03/2020 21:09:12
+03/01/20 21:09:12 INFO  LoginStep:40 -     * OS Name :- Windows 8.1 v6.3
+03/01/20 21:09:12 INFO  LoginStep:41 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/01/20 21:09:12 INFO  LoginStep:42 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/01/20 21:09:12 INFO  LoginStep:43 - ======================================================================================
+03/01/20 21:09:12 INFO  LoginStep:44 -  Executing the TestCases
+03/01/20 21:09:12 INFO  LoginStep:88 - Setting Up the Browser
+03/01/20 21:09:44 INFO  LoginStep:98 - Verifying the title of the Web Page
+03/01/20 21:09:44 INFO  LoginStep:100 -  * WebPage Title is as expected. Hence verification successful.
+03/01/20 21:09:44 INFO  LoginStep:110 - Entering user name and password
+03/01/20 21:09:46 INFO  LoginStep:116 - Clicking on the login Button
+03/01/20 21:09:46 INFO  LoginStep:123 - Verifying the title of the Application Page
+03/01/20 21:09:46 WARN  LoginStep:128 -  (!) WebPage Title is not as expected. Hence verification failed.
+03/01/20 21:09:46 ERROR LoginStep:56 - Free CRM Login Test Scenario is Failed
+03/01/20 21:09:46 INFO  LoginStep:57 - =========================================================
+03/01/20 21:09:46 FATAL LoginStep:58 - Closing the Scenario : Free CRM Login Test Scenario
+03/01/20 21:09:46 INFO  LoginStep:59 - =========================================================
+03/02/20 01:13:06 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 01:13:06 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 01:13:06 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 01:13:06
+03/02/20 01:13:06 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 01:13:06 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 01:13:06 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 01:13:06 INFO  LoginStep:45 - ======================================================================================
+03/02/20 01:13:06 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 01:13:06 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 01:13:39 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 01:13:39 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:13:39 INFO  LoginStep:112 - Entering user name and password
+03/02/20 01:13:40 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 01:13:41 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 01:13:41 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:13:51 INFO  LoginStep:137 - Creating new contact
+03/02/20 01:13:57 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 01:14:12 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:14:12 INFO  LoginStep:165 - Removing the contacts
+03/02/20 01:14:14 INFO  LoginStep:78 - =========================================================
+03/02/20 01:14:14 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 01:14:14 INFO  LoginStep:80 - =========================================================
+03/02/20 01:14:14 INFO  LoginStep:81 -  
+03/02/20 01:14:14 INFO  LoginStep:82 -  
+03/02/20 01:14:20 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 01:14:20 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 01:14:20 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 01:14:20
+03/02/20 01:14:20 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 01:14:20 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 01:14:20 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 01:14:20 INFO  LoginStep:45 - ======================================================================================
+03/02/20 01:14:20 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 01:14:20 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 01:14:48 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 01:14:48 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:14:48 INFO  LoginStep:112 - Entering user name and password
+03/02/20 01:14:48 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 01:14:48 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 01:14:48 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:14:58 INFO  LoginStep:137 - Creating new contact
+03/02/20 01:15:08 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 01:15:24 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:15:24 INFO  LoginStep:165 - Removing the contacts
+03/02/20 01:15:26 INFO  LoginStep:78 - =========================================================
+03/02/20 01:15:26 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 01:15:26 INFO  LoginStep:80 - =========================================================
+03/02/20 01:15:26 INFO  LoginStep:81 -  
+03/02/20 01:15:26 INFO  LoginStep:82 -  
+03/02/20 01:15:32 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 01:15:32 INFO  LoginStep:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 01:15:32 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 01:15:32
+03/02/20 01:15:32 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 01:15:32 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 01:15:32 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 01:15:32 INFO  LoginStep:45 - ======================================================================================
+03/02/20 01:15:32 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 01:15:32 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 01:16:03 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 01:16:03 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:16:03 INFO  LoginStep:112 - Entering user name and password
+03/02/20 01:16:04 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 01:16:04 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 01:16:04 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 01:16:04 INFO  LoginStep:165 - Removing the contacts
+03/02/20 01:16:04 INFO  LoginStep:58 - 
+03/02/20 01:16:04 ERROR LoginStep:59 - S2 : Free CRM Login Test Scenario is Failed
+03/02/20 01:16:04 INFO  LoginStep:60 - =========================================================
+03/02/20 01:16:04 FATAL LoginStep:61 - Closing the Scenario : S2 : Free CRM Login Test Scenario
+03/02/20 01:16:04 INFO  LoginStep:62 - =========================================================
+03/02/20 02:06:07 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:06:07 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:06:07 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:06:07
+03/02/20 02:06:07 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:06:07 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:06:07 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:06:07 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:06:07 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:06:07 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:06:49 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:06:49 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:06:49 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:06:50 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:06:51 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:06:51 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:07:01 INFO  LoginStep:137 - Creating new contact
+03/02/20 02:07:10 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 02:07:25 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:07:25 INFO  LoginStep:165 - Removing the contacts
+03/02/20 02:07:26 INFO  LoginStep:78 - =========================================================
+03/02/20 02:07:26 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 02:07:26 INFO  LoginStep:80 - =========================================================
+03/02/20 02:07:26 INFO  LoginStep:81 -  
+03/02/20 02:07:26 INFO  LoginStep:82 -  
+03/02/20 02:07:33 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:07:33 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:07:33 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:07:33
+03/02/20 02:07:33 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:07:33 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:07:33 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:07:33 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:07:33 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:07:33 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:08:03 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:08:03 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:08:03 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:08:04 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:08:04 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:08:04 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:08:14 INFO  LoginStep:137 - Creating new contact
+03/02/20 02:08:20 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 02:08:34 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:08:34 INFO  LoginStep:165 - Removing the contacts
+03/02/20 02:08:36 INFO  LoginStep:78 - =========================================================
+03/02/20 02:08:36 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 02:08:36 INFO  LoginStep:80 - =========================================================
+03/02/20 02:08:36 INFO  LoginStep:81 -  
+03/02/20 02:08:36 INFO  LoginStep:82 -  
+03/02/20 02:08:42 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:08:42 INFO  LoginStep:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:08:42 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:08:42
+03/02/20 02:08:42 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:08:42 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:08:42 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:08:42 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:08:42 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:08:42 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:09:11 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:09:11 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:09:11 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:09:12 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:09:12 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:09:12 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:09:12 INFO  LoginStep:173 - Logging Out of the Application
+03/02/20 02:09:12 INFO  LoginStep:58 - 
+03/02/20 02:09:12 ERROR LoginStep:59 - S2 : Free CRM Login Test Scenario is Failed
+03/02/20 02:09:12 INFO  LoginStep:60 - =========================================================
+03/02/20 02:09:12 FATAL LoginStep:61 - Closing the Scenario : S2 : Free CRM Login Test Scenario
+03/02/20 02:09:12 INFO  LoginStep:62 - =========================================================
+03/02/20 02:27:44 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:27:44 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:27:44 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:27:44
+03/02/20 02:27:44 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:27:44 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:27:44 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:27:44 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:27:44 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:27:45 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:28:15 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:28:15 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:28:15 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:28:15 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:28:15 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:28:15 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:28:25 INFO  LoginStep:137 - Creating new contact
+03/02/20 02:28:31 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 02:28:46 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:28:46 INFO  LoginStep:165 - Removing the contacts
+03/02/20 02:28:47 INFO  LoginStep:78 - =========================================================
+03/02/20 02:28:47 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 02:28:47 INFO  LoginStep:80 - =========================================================
+03/02/20 02:28:47 INFO  LoginStep:81 -  
+03/02/20 02:28:47 INFO  LoginStep:82 -  
+03/02/20 02:28:54 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:28:54 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:28:54 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:28:54
+03/02/20 02:28:54 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:28:54 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:28:54 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:28:54 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:28:54 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:28:54 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:29:22 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:29:22 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:29:22 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:29:22 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:29:23 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:29:23 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:29:33 INFO  LoginStep:137 - Creating new contact
+03/02/20 02:29:41 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 02:29:55 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:29:55 INFO  LoginStep:165 - Removing the contacts
+03/02/20 02:29:56 INFO  LoginStep:78 - =========================================================
+03/02/20 02:29:56 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 02:29:56 INFO  LoginStep:80 - =========================================================
+03/02/20 02:29:56 INFO  LoginStep:81 -  
+03/02/20 02:29:56 INFO  LoginStep:82 -  
+03/02/20 02:30:03 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:30:03 INFO  LoginStep:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:30:03 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:30:03
+03/02/20 02:30:03 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:30:03 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:30:03 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:30:03 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:30:03 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:30:03 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:30:31 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:30:31 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:30:31 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:30:31 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:30:31 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:30:31 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:30:31 INFO  LoginStep:173 - Logging Out of the Application
+03/02/20 02:30:31 INFO  LoginStep:58 - 
+03/02/20 02:30:31 ERROR LoginStep:59 - S2 : Free CRM Login Test Scenario is Failed
+03/02/20 02:30:31 INFO  LoginStep:60 - =========================================================
+03/02/20 02:30:31 FATAL LoginStep:61 - Closing the Scenario : S2 : Free CRM Login Test Scenario
+03/02/20 02:30:31 INFO  LoginStep:62 - =========================================================
+03/02/20 02:51:48 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:51:48 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:51:48 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:51:48
+03/02/20 02:51:48 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:51:48 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:51:48 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:51:48 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:51:48 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:51:49 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:52:20 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:52:20 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:52:20 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:52:23 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:52:23 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:52:23 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:52:33 INFO  LoginStep:137 - Creating new contact
+03/02/20 02:52:39 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 02:52:55 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:52:55 INFO  LoginStep:165 - Removing the contacts
+03/02/20 02:52:57 INFO  LoginStep:78 - =========================================================
+03/02/20 02:52:57 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 02:52:57 INFO  LoginStep:80 - =========================================================
+03/02/20 02:52:57 INFO  LoginStep:81 -  
+03/02/20 02:52:57 INFO  LoginStep:82 -  
+03/02/20 02:53:03 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:53:03 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:53:04 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:53:03
+03/02/20 02:53:04 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:53:04 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:53:04 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:53:04 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:53:04 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:53:04 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:53:34 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:53:34 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:53:34 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:53:35 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:53:35 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:53:35 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:53:45 INFO  LoginStep:137 - Creating new contact
+03/02/20 02:53:54 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/02/20 02:54:08 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:54:08 INFO  LoginStep:165 - Removing the contacts
+03/02/20 02:54:09 INFO  LoginStep:78 - =========================================================
+03/02/20 02:54:09 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/02/20 02:54:09 INFO  LoginStep:80 - =========================================================
+03/02/20 02:54:09 INFO  LoginStep:81 -  
+03/02/20 02:54:09 INFO  LoginStep:82 -  
+03/02/20 02:54:15 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/02/20 02:54:15 INFO  LoginStep:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/02/20 02:54:15 INFO  LoginStep:41 - Executed By :- Saptarshi on 02/03/2020 02:54:15
+03/02/20 02:54:15 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/02/20 02:54:15 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/02/20 02:54:15 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/02/20 02:54:15 INFO  LoginStep:45 - ======================================================================================
+03/02/20 02:54:15 INFO  LoginStep:46 -  Executing the TestCases
+03/02/20 02:54:15 INFO  LoginStep:91 - Setting Up the Browser
+03/02/20 02:54:45 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/02/20 02:54:45 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:54:45 INFO  LoginStep:112 - Entering user name and password
+03/02/20 02:54:46 INFO  LoginStep:118 - Clicking on the login Button
+03/02/20 02:54:47 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/02/20 02:54:47 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/02/20 02:54:47 INFO  LoginStep:173 - Logging Out of the Application
+03/02/20 02:54:53 INFO  LoginStep:78 - =========================================================
+03/02/20 02:54:53 INFO  LoginStep:79 - End of Scenario : S2 : Free CRM Login Test Scenario
+03/02/20 02:54:53 INFO  LoginStep:80 - =========================================================
+03/02/20 02:54:53 INFO  LoginStep:81 -  
+03/02/20 02:54:53 INFO  LoginStep:82 -  
+03/03/20 00:44:25 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 00:44:25 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 00:44:25 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 00:44:25
+03/03/20 00:44:25 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 00:44:25 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 00:44:25 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 00:44:25 INFO  LoginStep:45 - ======================================================================================
+03/03/20 00:44:25 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 00:44:25 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 00:45:04 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 00:45:04 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:45:04 INFO  LoginStep:112 - Entering user name and password
+03/03/20 00:45:04 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 00:45:04 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 00:45:04 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:45:14 INFO  LoginStep:137 - Creating new contact
+03/03/20 00:45:22 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/03/20 00:45:38 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:45:38 INFO  LoginStep:165 - Removing the contacts
+03/03/20 00:45:39 INFO  LoginStep:78 - =========================================================
+03/03/20 00:45:39 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/03/20 00:45:39 INFO  LoginStep:80 - =========================================================
+03/03/20 00:45:39 INFO  LoginStep:81 -  
+03/03/20 00:45:39 INFO  LoginStep:82 -  
+03/03/20 00:45:45 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 00:45:45 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 00:45:45 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 00:45:45
+03/03/20 00:45:45 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 00:45:45 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 00:45:45 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 00:45:45 INFO  LoginStep:45 - ======================================================================================
+03/03/20 00:45:45 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 00:45:45 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 00:46:19 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 00:46:19 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:46:19 INFO  LoginStep:112 - Entering user name and password
+03/03/20 00:46:19 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 00:46:19 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 00:46:19 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:46:29 INFO  LoginStep:137 - Creating new contact
+03/03/20 00:46:36 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/03/20 00:46:49 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:46:49 INFO  LoginStep:165 - Removing the contacts
+03/03/20 00:46:51 INFO  LoginStep:78 - =========================================================
+03/03/20 00:46:51 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/03/20 00:46:51 INFO  LoginStep:80 - =========================================================
+03/03/20 00:46:51 INFO  LoginStep:81 -  
+03/03/20 00:46:51 INFO  LoginStep:82 -  
+03/03/20 00:46:57 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 00:46:57 INFO  LoginStep:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 00:46:57 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 00:46:57
+03/03/20 00:46:57 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 00:46:57 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 00:46:57 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 00:46:57 INFO  LoginStep:45 - ======================================================================================
+03/03/20 00:46:57 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 00:46:57 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 00:47:27 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 00:47:27 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:47:27 INFO  LoginStep:112 - Entering user name and password
+03/03/20 00:47:28 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 00:47:28 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 00:47:28 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 00:47:28 INFO  LoginStep:173 - Logging Out of the Application
+03/03/20 00:47:35 INFO  LoginStep:78 - =========================================================
+03/03/20 00:47:35 INFO  LoginStep:79 - End of Scenario : S2 : Free CRM Login Test Scenario
+03/03/20 00:47:35 INFO  LoginStep:80 - =========================================================
+03/03/20 00:47:35 INFO  LoginStep:81 -  
+03/03/20 00:47:35 INFO  LoginStep:82 -  
+03/03/20 01:24:45 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 01:24:45 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 01:24:45 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 01:24:45
+03/03/20 01:24:45 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 01:24:45 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 01:24:45 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 01:24:45 INFO  LoginStep:45 - ======================================================================================
+03/03/20 01:24:45 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 01:24:45 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 01:25:27 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 01:25:27 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:25:27 INFO  LoginStep:112 - Entering user name and password
+03/03/20 01:25:27 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 01:25:27 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 01:25:27 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:25:37 INFO  LoginStep:137 - Creating new contact
+03/03/20 01:25:44 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/03/20 01:25:59 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:25:59 INFO  LoginStep:165 - Removing the contacts
+03/03/20 01:26:01 INFO  LoginStep:78 - =========================================================
+03/03/20 01:26:01 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/03/20 01:26:01 INFO  LoginStep:80 - =========================================================
+03/03/20 01:26:01 INFO  LoginStep:81 -  
+03/03/20 01:26:01 INFO  LoginStep:82 -  
+03/03/20 01:26:07 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 01:26:07 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 01:26:07 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 01:26:07
+03/03/20 01:26:07 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 01:26:07 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 01:26:07 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 01:26:07 INFO  LoginStep:45 - ======================================================================================
+03/03/20 01:26:07 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 01:26:07 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 01:26:33 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 01:26:33 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:26:33 INFO  LoginStep:112 - Entering user name and password
+03/03/20 01:26:33 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 01:26:33 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 01:26:33 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:26:43 INFO  LoginStep:137 - Creating new contact
+03/03/20 01:26:51 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/03/20 01:27:06 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:27:06 INFO  LoginStep:165 - Removing the contacts
+03/03/20 01:27:08 INFO  LoginStep:78 - =========================================================
+03/03/20 01:27:08 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/03/20 01:27:08 INFO  LoginStep:80 - =========================================================
+03/03/20 01:27:08 INFO  LoginStep:81 -  
+03/03/20 01:27:08 INFO  LoginStep:82 -  
+03/03/20 01:27:14 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 01:27:14 INFO  LoginStep:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 01:27:14 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 01:27:14
+03/03/20 01:27:14 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 01:27:14 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 01:27:14 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 01:27:14 INFO  LoginStep:45 - ======================================================================================
+03/03/20 01:27:14 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 01:27:14 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 01:27:41 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 01:27:41 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:27:41 INFO  LoginStep:112 - Entering user name and password
+03/03/20 01:27:41 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 01:27:42 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 01:27:42 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:27:42 INFO  LoginStep:207 - Logging Out of the Application
+03/03/20 01:27:48 INFO  LoginStep:78 - =========================================================
+03/03/20 01:27:48 INFO  LoginStep:79 - End of Scenario : S2 : Free CRM Login Test Scenario
+03/03/20 01:27:48 INFO  LoginStep:80 - =========================================================
+03/03/20 01:27:48 INFO  LoginStep:81 -  
+03/03/20 01:27:48 INFO  LoginStep:82 -  
+03/03/20 01:27:55 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 01:27:55 INFO  LoginStep:40 - Scenario :- S1 : Choose different options Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 01:27:55 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 01:27:55
+03/03/20 01:27:55 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 01:27:55 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 01:27:55 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 01:27:55 INFO  LoginStep:45 - ======================================================================================
+03/03/20 01:27:55 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 01:27:55 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 01:28:26 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 01:28:26 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:28:26 INFO  LoginStep:112 - Entering user name and password
+03/03/20 01:28:27 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 01:28:27 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 01:28:27 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:28:37 INFO  LoginStep:174 - Clicking on Contacts Option
+03/03/20 01:28:39 INFO  LoginStep:177 - Clicking on Companies Option
+03/03/20 01:28:39 INFO  LoginStep:180 - Clicking on Deals Option
+03/03/20 01:28:40 INFO  LoginStep:183 - Clicking on Tasks Option
+03/03/20 01:28:40 INFO  LoginStep:186 - Clicking on Cases Option
+03/03/20 01:28:41 INFO  LoginStep:189 - Clicking on Calls Option
+03/03/20 01:28:41 INFO  LoginStep:192 - Clicking on Documents Option
+03/03/20 01:28:41 INFO  LoginStep:195 - Clicking on Email Option
+03/03/20 01:28:41 INFO  LoginStep:198 - Clicking on Campaigns Option
+03/03/20 01:28:42 INFO  LoginStep:201 - Clicking on Form Option
+03/03/20 01:28:42 INFO  LoginStep:165 - Removing the contacts
+03/03/20 01:28:42 INFO  LoginStep:58 - 
+03/03/20 01:28:42 ERROR LoginStep:59 - S1 : Choose different options Test Scenario is Failed
+03/03/20 01:28:42 INFO  LoginStep:60 - =========================================================
+03/03/20 01:28:42 FATAL LoginStep:61 - Closing the Scenario : S1 : Choose different options Test Scenario
+03/03/20 01:28:42 INFO  LoginStep:62 - =========================================================
+03/03/20 01:41:15 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 01:41:15 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 01:41:15 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 01:41:15
+03/03/20 01:41:15 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 01:41:15 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 01:41:15 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 01:41:15 INFO  LoginStep:45 - ======================================================================================
+03/03/20 01:41:15 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 01:41:15 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 01:41:48 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 01:41:48 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:41:48 INFO  LoginStep:112 - Entering user name and password
+03/03/20 01:41:49 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 01:41:49 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 01:41:49 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:41:59 INFO  LoginStep:137 - Creating new contact
+03/03/20 01:42:09 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/03/20 01:42:25 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:42:25 INFO  LoginStep:165 - Removing the contacts
+03/03/20 01:42:26 INFO  LoginStep:78 - =========================================================
+03/03/20 01:42:26 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/03/20 01:42:26 INFO  LoginStep:80 - =========================================================
+03/03/20 01:42:26 INFO  LoginStep:81 -  
+03/03/20 01:42:26 INFO  LoginStep:82 -  
+03/03/20 01:42:33 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 01:42:33 INFO  LoginStep:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 01:42:33 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 01:42:33
+03/03/20 01:42:33 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 01:42:33 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 01:42:33 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 01:42:33 INFO  LoginStep:45 - ======================================================================================
+03/03/20 01:42:33 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 01:42:33 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 01:43:04 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 01:43:04 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:43:04 INFO  LoginStep:112 - Entering user name and password
+03/03/20 01:43:04 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 01:43:05 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 01:43:05 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:43:15 INFO  LoginStep:137 - Creating new contact
+03/03/20 01:43:21 INFO  LoginStep:144 - Entering the contact credentials to create a contact
+03/03/20 01:43:35 INFO  LoginStep:155 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:43:35 INFO  LoginStep:165 - Removing the contacts
+03/03/20 01:43:36 INFO  LoginStep:78 - =========================================================
+03/03/20 01:43:36 INFO  LoginStep:79 - End of Scenario : S1 : Create contact Test Scenario
+03/03/20 01:43:36 INFO  LoginStep:80 - =========================================================
+03/03/20 01:43:36 INFO  LoginStep:81 -  
+03/03/20 01:43:36 INFO  LoginStep:82 -  
+03/03/20 01:43:43 INFO  LoginStep:39 - =======================================  HEADER ======================================
+03/03/20 01:43:43 INFO  LoginStep:40 - Scenario :- S1 : Choose different options Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 01:43:43 INFO  LoginStep:41 - Executed By :- Saptarshi on 03/03/2020 01:43:43
+03/03/20 01:43:43 INFO  LoginStep:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 01:43:43 INFO  LoginStep:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 01:43:43 INFO  LoginStep:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 01:43:43 INFO  LoginStep:45 - ======================================================================================
+03/03/20 01:43:43 INFO  LoginStep:46 -  Executing the TestCases
+03/03/20 01:43:43 INFO  LoginStep:91 - Setting Up the Browser
+03/03/20 01:44:10 INFO  LoginStep:100 - Verifying the title of the Web Page
+03/03/20 01:44:10 INFO  LoginStep:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:44:10 INFO  LoginStep:112 - Entering user name and password
+03/03/20 01:44:10 INFO  LoginStep:118 - Clicking on the login Button
+03/03/20 01:44:10 INFO  LoginStep:125 - Verifying the title of the Application Page
+03/03/20 01:44:10 INFO  LoginStep:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 01:44:20 INFO  LoginStep:174 - Clicking on Contacts Option
+03/03/20 01:44:21 INFO  LoginStep:177 - Clicking on Companies Option
+03/03/20 01:44:21 INFO  LoginStep:180 - Clicking on Deals Option
+03/03/20 01:44:23 INFO  LoginStep:183 - Clicking on Tasks Option
+03/03/20 01:44:23 INFO  LoginStep:186 - Clicking on Cases Option
+03/03/20 01:44:24 INFO  LoginStep:189 - Clicking on Calls Option
+03/03/20 01:44:24 INFO  LoginStep:192 - Clicking on Documents Option
+03/03/20 01:44:24 INFO  LoginStep:195 - Clicking on Email Option
+03/03/20 01:44:25 INFO  LoginStep:198 - Clicking on Campaigns Option
+03/03/20 01:44:25 INFO  LoginStep:201 - Clicking on Form Option
+03/03/20 01:44:26 INFO  LoginStep:207 - Logging Out of the Application
+03/03/20 01:44:32 INFO  LoginStep:78 - =========================================================
+03/03/20 01:44:32 INFO  LoginStep:79 - End of Scenario : S1 : Choose different options Test Scenario
+03/03/20 01:44:32 INFO  LoginStep:80 - =========================================================
+03/03/20 01:44:32 INFO  LoginStep:81 -  
+03/03/20 01:44:32 INFO  LoginStep:82 -  
+03/03/20 02:14:57 INFO  StepDefination:39 - =======================================  HEADER ======================================
+03/03/20 02:14:57 INFO  StepDefination:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 02:14:57 INFO  StepDefination:41 - Executed By :- Saptarshi on 03/03/2020 02:14:57
+03/03/20 02:14:57 INFO  StepDefination:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 02:14:57 INFO  StepDefination:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 02:14:57 INFO  StepDefination:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 02:14:57 INFO  StepDefination:45 - ======================================================================================
+03/03/20 02:14:57 INFO  StepDefination:46 -  Executing the TestCases
+03/03/20 02:14:57 INFO  StepDefination:91 - Setting Up the Browser
+03/03/20 02:15:26 INFO  StepDefination:100 - Verifying the title of the Web Page
+03/03/20 02:15:26 INFO  StepDefination:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 02:15:26 INFO  StepDefination:112 - Entering user name and password
+03/03/20 02:15:26 INFO  StepDefination:118 - Clicking on the login Button
+03/03/20 02:15:26 INFO  StepDefination:125 - Verifying the title of the Application Page
+03/03/20 02:15:26 INFO  StepDefination:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 02:15:26 INFO  StepDefination:207 - Logging Out of the Application
+03/03/20 02:15:33 INFO  StepDefination:78 - =========================================================
+03/03/20 02:15:33 INFO  StepDefination:79 - End of Scenario : S2 : Free CRM Login Test Scenario
+03/03/20 02:15:33 INFO  StepDefination:80 - =========================================================
+03/03/20 02:15:33 INFO  StepDefination:81 -  
+03/03/20 02:15:33 INFO  StepDefination:82 -  
+03/03/20 02:21:58 INFO  StepDefination:39 - =======================================  HEADER ======================================
+03/03/20 02:21:59 INFO  StepDefination:40 - Scenario :- S2 : Free CRM Login Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/03/20 02:21:59 INFO  StepDefination:41 - Executed By :- Saptarshi on 03/03/2020 02:21:58
+03/03/20 02:21:59 INFO  StepDefination:42 -     * OS Name :- Windows 8.1 v6.3
+03/03/20 02:21:59 INFO  StepDefination:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/03/20 02:21:59 INFO  StepDefination:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/03/20 02:21:59 INFO  StepDefination:45 - ======================================================================================
+03/03/20 02:21:59 INFO  StepDefination:46 -  Executing the TestCases
+03/03/20 02:21:59 INFO  StepDefination:91 - Setting Up the Browser
+03/03/20 02:22:36 INFO  StepDefination:100 - Verifying the title of the Web Page
+03/03/20 02:22:36 INFO  StepDefination:102 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 02:22:36 INFO  StepDefination:112 - Entering user name and password
+03/03/20 02:22:37 INFO  StepDefination:118 - Clicking on the login Button
+03/03/20 02:22:37 INFO  StepDefination:125 - Verifying the title of the Application Page
+03/03/20 02:22:37 INFO  StepDefination:127 -  * WebPage Title is as expected. Hence verification successful.
+03/03/20 02:22:37 INFO  StepDefination:207 - Logging Out of the Application
+03/03/20 02:22:44 INFO  StepDefination:78 - =========================================================
+03/03/20 02:22:44 INFO  StepDefination:79 - End of Scenario : S2 : Free CRM Login Test Scenario
+03/03/20 02:22:44 INFO  StepDefination:80 - =========================================================
+03/03/20 02:22:44 INFO  StepDefination:81 -  
+03/03/20 02:22:44 INFO  StepDefination:82 -  
+03/05/20 01:55:04 INFO  StepDefination:39 - =======================================  HEADER ======================================
+03/05/20 01:55:04 INFO  StepDefination:40 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/05/20 01:55:04 INFO  StepDefination:41 - Executed By :- Saptarshi on 05/03/2020 01:55:04
+03/05/20 01:55:04 INFO  StepDefination:42 -     * OS Name :- Windows 8.1 v6.3
+03/05/20 01:55:04 INFO  StepDefination:43 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/05/20 01:55:04 INFO  StepDefination:44 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/05/20 01:55:04 INFO  StepDefination:45 - ======================================================================================
+03/05/20 01:55:04 INFO  StepDefination:46 -  Executing the TestCases
+03/05/20 01:55:05 INFO  StepDefination:91 - Setting Up the Browser
+03/05/20 02:53:09 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/05/20 02:53:09 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/05/20 02:53:09 INFO  StepDefination:47 - Executed By :- Saptarshi on 05/03/2020 02:53:09
+03/05/20 02:53:09 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/05/20 02:53:09 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/05/20 02:53:09 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/05/20 02:53:09 INFO  StepDefination:51 - ======================================================================================
+03/05/20 02:53:09 INFO  StepDefination:52 -  Executing the TestCases
+03/05/20 02:53:09 INFO  StepDefination:97 - Setting Up the Browser
+03/05/20 02:53:40 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/05/20 02:53:40 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:53:40 INFO  StepDefination:120 - Entering user name and password
+03/05/20 02:53:41 INFO  StepDefination:126 - Clicking on the login Button
+03/05/20 02:53:42 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/05/20 02:53:42 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:53:52 INFO  StepDefination:145 - Creating new contact
+03/05/20 02:53:58 INFO  StepDefination:152 - Entering the contact credentials to create a contact
+03/05/20 02:54:06 INFO  StepDefination:155 - Saving the recently created contact
+03/05/20 02:54:12 INFO  StepDefination:159 - Fetching the created Contact Full Name
+03/05/20 02:54:12 INFO  StepDefination:163 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:54:12 INFO  StepDefination:173 - Removing the contacts
+03/05/20 02:54:13 INFO  StepDefination:84 - =========================================================
+03/05/20 02:54:13 INFO  StepDefination:85 - End of Scenario : S1 : Create contact Test Scenario
+03/05/20 02:54:13 INFO  StepDefination:86 - =========================================================
+03/05/20 02:54:13 INFO  StepDefination:87 -  
+03/05/20 02:54:13 INFO  StepDefination:88 -  
+03/05/20 02:54:19 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/05/20 02:54:19 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/05/20 02:54:19 INFO  StepDefination:47 - Executed By :- Saptarshi on 05/03/2020 02:54:19
+03/05/20 02:54:19 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/05/20 02:54:19 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/05/20 02:54:19 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/05/20 02:54:19 INFO  StepDefination:51 - ======================================================================================
+03/05/20 02:54:19 INFO  StepDefination:52 -  Executing the TestCases
+03/05/20 02:54:19 INFO  StepDefination:97 - Setting Up the Browser
+03/05/20 02:54:49 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/05/20 02:54:49 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:54:49 INFO  StepDefination:120 - Entering user name and password
+03/05/20 02:54:50 INFO  StepDefination:126 - Clicking on the login Button
+03/05/20 02:54:50 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/05/20 02:54:50 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:55:00 INFO  StepDefination:145 - Creating new contact
+03/05/20 02:55:09 INFO  StepDefination:152 - Entering the contact credentials to create a contact
+03/05/20 02:55:17 INFO  StepDefination:155 - Saving the recently created contact
+03/05/20 02:55:23 INFO  StepDefination:159 - Fetching the created Contact Full Name
+03/05/20 02:55:23 INFO  StepDefination:163 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:55:23 INFO  StepDefination:173 - Removing the contacts
+03/05/20 02:55:24 INFO  StepDefination:84 - =========================================================
+03/05/20 02:55:24 INFO  StepDefination:85 - End of Scenario : S1 : Create contact Test Scenario
+03/05/20 02:55:24 INFO  StepDefination:86 - =========================================================
+03/05/20 02:55:24 INFO  StepDefination:87 -  
+03/05/20 02:55:24 INFO  StepDefination:88 -  
+03/05/20 02:55:31 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/05/20 02:55:31 INFO  StepDefination:46 - Scenario :- S1 : Choose different options Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/05/20 02:55:31 INFO  StepDefination:47 - Executed By :- Saptarshi on 05/03/2020 02:55:31
+03/05/20 02:55:31 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/05/20 02:55:31 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/05/20 02:55:31 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/05/20 02:55:31 INFO  StepDefination:51 - ======================================================================================
+03/05/20 02:55:31 INFO  StepDefination:52 -  Executing the TestCases
+03/05/20 02:55:31 INFO  StepDefination:97 - Setting Up the Browser
+03/05/20 02:55:59 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/05/20 02:55:59 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:55:59 INFO  StepDefination:120 - Entering user name and password
+03/05/20 02:56:00 INFO  StepDefination:126 - Clicking on the login Button
+03/05/20 02:56:00 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/05/20 02:56:00 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 02:56:10 INFO  StepDefination:182 - Clicking on Contacts Option
+03/05/20 02:56:10 INFO  StepDefination:185 - Clicking on Companies Option
+03/05/20 02:56:11 INFO  StepDefination:188 - Clicking on Deals Option
+03/05/20 02:56:12 INFO  StepDefination:191 - Clicking on Tasks Option
+03/05/20 02:56:12 INFO  StepDefination:194 - Clicking on Cases Option
+03/05/20 02:56:13 INFO  StepDefination:197 - Clicking on Calls Option
+03/05/20 02:56:13 INFO  StepDefination:200 - Clicking on Documents Option
+03/05/20 02:56:13 INFO  StepDefination:203 - Clicking on Email Option
+03/05/20 02:56:14 INFO  StepDefination:206 - Clicking on Campaigns Option
+03/05/20 02:56:14 INFO  StepDefination:209 - Clicking on Form Option
+03/05/20 02:56:14 INFO  StepDefination:215 - Logging Out of the Application
+03/05/20 02:56:21 INFO  StepDefination:84 - =========================================================
+03/05/20 02:56:21 INFO  StepDefination:85 - End of Scenario : S1 : Choose different options Test Scenario
+03/05/20 02:56:21 INFO  StepDefination:86 - =========================================================
+03/05/20 02:56:21 INFO  StepDefination:87 -  
+03/05/20 02:56:21 INFO  StepDefination:88 -  
+03/05/20 03:05:44 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/05/20 03:05:44 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/05/20 03:05:44 INFO  StepDefination:47 - Executed By :- Saptarshi on 05/03/2020 03:05:44
+03/05/20 03:05:44 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/05/20 03:05:44 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/05/20 03:05:44 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/05/20 03:05:44 INFO  StepDefination:51 - ======================================================================================
+03/05/20 03:05:44 INFO  StepDefination:52 -  Executing the TestCases
+03/05/20 03:05:45 INFO  StepDefination:97 - Setting Up the Browser
+03/05/20 03:06:32 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/05/20 03:06:32 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:06:32 INFO  StepDefination:120 - Entering user name and password
+03/05/20 03:06:33 INFO  StepDefination:126 - Clicking on the login Button
+03/05/20 03:06:33 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/05/20 03:06:33 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:06:43 INFO  StepDefination:145 - Creating new contact
+03/05/20 03:06:49 INFO  StepDefination:152 - Entering the contact credentials to create a contact
+03/05/20 03:06:58 INFO  StepDefination:155 - Saving the recently created contact
+03/05/20 03:07:04 INFO  StepDefination:159 - Fetching the created Contact Full Name
+03/05/20 03:07:04 INFO  StepDefination:163 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:07:04 INFO  StepDefination:173 - Removing the contacts
+03/05/20 03:07:06 INFO  StepDefination:84 - =========================================================
+03/05/20 03:07:06 INFO  StepDefination:85 - End of Scenario : S1 : Create contact Test Scenario
+03/05/20 03:07:06 INFO  StepDefination:86 - =========================================================
+03/05/20 03:07:06 INFO  StepDefination:87 -  
+03/05/20 03:07:06 INFO  StepDefination:88 -  
+03/05/20 03:07:12 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/05/20 03:07:12 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/05/20 03:07:12 INFO  StepDefination:47 - Executed By :- Saptarshi on 05/03/2020 03:07:12
+03/05/20 03:07:12 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/05/20 03:07:12 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/05/20 03:07:12 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/05/20 03:07:12 INFO  StepDefination:51 - ======================================================================================
+03/05/20 03:07:12 INFO  StepDefination:52 -  Executing the TestCases
+03/05/20 03:07:12 INFO  StepDefination:97 - Setting Up the Browser
+03/05/20 03:07:45 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/05/20 03:07:45 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:07:45 INFO  StepDefination:120 - Entering user name and password
+03/05/20 03:07:46 INFO  StepDefination:126 - Clicking on the login Button
+03/05/20 03:07:47 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/05/20 03:07:47 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:07:57 INFO  StepDefination:145 - Creating new contact
+03/05/20 03:08:06 INFO  StepDefination:152 - Entering the contact credentials to create a contact
+03/05/20 03:08:14 INFO  StepDefination:155 - Saving the recently created contact
+03/05/20 03:08:20 INFO  StepDefination:159 - Fetching the created Contact Full Name
+03/05/20 03:08:20 INFO  StepDefination:163 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:08:20 INFO  StepDefination:173 - Removing the contacts
+03/05/20 03:08:21 INFO  StepDefination:84 - =========================================================
+03/05/20 03:08:21 INFO  StepDefination:85 - End of Scenario : S1 : Create contact Test Scenario
+03/05/20 03:08:21 INFO  StepDefination:86 - =========================================================
+03/05/20 03:08:21 INFO  StepDefination:87 -  
+03/05/20 03:08:21 INFO  StepDefination:88 -  
+03/05/20 03:08:28 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/05/20 03:08:28 INFO  StepDefination:46 - Scenario :- S1 : Choose different options Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/05/20 03:08:28 INFO  StepDefination:47 - Executed By :- Saptarshi on 05/03/2020 03:08:28
+03/05/20 03:08:28 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/05/20 03:08:28 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/05/20 03:08:28 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/05/20 03:08:28 INFO  StepDefination:51 - ======================================================================================
+03/05/20 03:08:28 INFO  StepDefination:52 -  Executing the TestCases
+03/05/20 03:08:28 INFO  StepDefination:97 - Setting Up the Browser
+03/05/20 03:09:00 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/05/20 03:09:00 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:09:00 INFO  StepDefination:120 - Entering user name and password
+03/05/20 03:09:01 INFO  StepDefination:126 - Clicking on the login Button
+03/05/20 03:09:01 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/05/20 03:09:01 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/05/20 03:09:11 INFO  StepDefination:182 - Clicking on Contacts Option
+03/05/20 03:09:12 INFO  StepDefination:185 - Clicking on Companies Option
+03/05/20 03:09:13 INFO  StepDefination:188 - Clicking on Deals Option
+03/05/20 03:09:14 INFO  StepDefination:191 - Clicking on Tasks Option
+03/05/20 03:09:14 INFO  StepDefination:194 - Clicking on Cases Option
+03/05/20 03:09:15 INFO  StepDefination:197 - Clicking on Calls Option
+03/05/20 03:09:16 INFO  StepDefination:200 - Clicking on Documents Option
+03/05/20 03:09:16 INFO  StepDefination:203 - Clicking on Email Option
+03/05/20 03:09:16 INFO  StepDefination:206 - Clicking on Campaigns Option
+03/05/20 03:09:17 INFO  StepDefination:209 - Clicking on Form Option
+03/05/20 03:09:17 INFO  StepDefination:215 - Logging Out of the Application
+03/05/20 03:09:23 INFO  StepDefination:84 - =========================================================
+03/05/20 03:09:23 INFO  StepDefination:85 - End of Scenario : S1 : Choose different options Test Scenario
+03/05/20 03:09:23 INFO  StepDefination:86 - =========================================================
+03/05/20 03:09:23 INFO  StepDefination:87 -  
+03/05/20 03:09:23 INFO  StepDefination:88 -  
+03/10/20 20:19:17 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/10/20 20:19:17 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/10/20 20:19:17 INFO  StepDefination:47 - Executed By :- Saptarshi on 10/03/2020 20:19:17
+03/10/20 20:19:17 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/10/20 20:19:17 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/10/20 20:19:17 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/10/20 20:19:17 INFO  StepDefination:51 - ======================================================================================
+03/10/20 20:19:17 INFO  StepDefination:52 -  Executing the TestCases
+03/10/20 20:19:18 INFO  StepDefination:97 - Setting Up the Browser
+03/10/20 20:19:36 INFO  StepDefination:64 - 
+03/10/20 20:19:36 ERROR StepDefination:65 - S1 : Create contact Test Scenario is Failed
+03/10/20 20:19:36 INFO  StepDefination:66 - =========================================================
+03/10/20 20:19:36 FATAL StepDefination:67 - Closing the Scenario : S1 : Create contact Test Scenario
+03/10/20 20:19:36 INFO  StepDefination:68 - =========================================================
+03/10/20 20:19:41 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/10/20 20:19:41 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/10/20 20:19:41 INFO  StepDefination:47 - Executed By :- Saptarshi on 10/03/2020 20:19:41
+03/10/20 20:19:41 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/10/20 20:19:41 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/10/20 20:19:41 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/10/20 20:19:41 INFO  StepDefination:51 - ======================================================================================
+03/10/20 20:19:41 INFO  StepDefination:52 -  Executing the TestCases
+03/10/20 20:19:41 INFO  StepDefination:97 - Setting Up the Browser
+03/10/20 20:20:54 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/10/20 20:20:54 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 20:20:54 INFO  StepDefination:120 - Entering user name and password
+03/10/20 20:21:04 INFO  StepDefination:126 - Clicking on the login Button
+03/10/20 20:21:07 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/10/20 20:21:07 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 20:21:17 INFO  StepDefination:145 - Creating new contact
+03/10/20 20:21:27 INFO  StepDefination:152 - Entering the contact credentials to create a contact
+03/10/20 20:21:43 INFO  StepDefination:155 - Saving the recently created contact
+03/10/20 20:21:50 INFO  StepDefination:159 - Fetching the created Contact Full Name
+03/10/20 20:21:50 INFO  StepDefination:163 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 20:21:50 INFO  StepDefination:173 - Removing the contacts
+03/10/20 20:21:54 INFO  StepDefination:84 - =========================================================
+03/10/20 20:21:54 INFO  StepDefination:85 - End of Scenario : S1 : Create contact Test Scenario
+03/10/20 20:21:54 INFO  StepDefination:86 - =========================================================
+03/10/20 20:21:54 INFO  StepDefination:87 -  
+03/10/20 20:21:54 INFO  StepDefination:88 -  
+03/10/20 20:22:27 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/10/20 20:22:27 INFO  StepDefination:46 - Scenario :- S1 : Choose different options Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/10/20 20:22:27 INFO  StepDefination:47 - Executed By :- Saptarshi on 10/03/2020 20:22:27
+03/10/20 20:22:27 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/10/20 20:22:27 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/10/20 20:22:27 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/10/20 20:22:27 INFO  StepDefination:51 - ======================================================================================
+03/10/20 20:22:27 INFO  StepDefination:52 -  Executing the TestCases
+03/10/20 20:22:27 INFO  StepDefination:97 - Setting Up the Browser
+03/10/20 20:23:21 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/10/20 20:23:21 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 20:23:21 INFO  StepDefination:120 - Entering user name and password
+03/10/20 20:23:31 INFO  StepDefination:126 - Clicking on the login Button
+03/10/20 20:23:34 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/10/20 20:23:34 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 20:23:44 INFO  StepDefination:182 - Clicking on Contacts Option
+03/10/20 20:23:47 INFO  StepDefination:185 - Clicking on Companies Option
+03/10/20 20:23:49 INFO  StepDefination:188 - Clicking on Deals Option
+03/10/20 20:23:51 INFO  StepDefination:191 - Clicking on Tasks Option
+03/10/20 20:23:52 INFO  StepDefination:194 - Clicking on Cases Option
+03/10/20 20:23:54 INFO  StepDefination:197 - Clicking on Calls Option
+03/10/20 20:23:55 INFO  StepDefination:200 - Clicking on Documents Option
+03/10/20 20:23:58 INFO  StepDefination:203 - Clicking on Email Option
+03/10/20 20:24:01 INFO  StepDefination:206 - Clicking on Campaigns Option
+03/10/20 20:24:03 INFO  StepDefination:209 - Clicking on Form Option
+03/10/20 20:24:06 INFO  StepDefination:215 - Logging Out of the Application
+03/10/20 20:24:15 INFO  StepDefination:84 - =========================================================
+03/10/20 20:24:15 INFO  StepDefination:85 - End of Scenario : S1 : Choose different options Test Scenario
+03/10/20 20:24:15 INFO  StepDefination:86 - =========================================================
+03/10/20 20:24:15 INFO  StepDefination:87 -  
+03/10/20 20:24:15 INFO  StepDefination:88 -  
+03/10/20 21:24:09 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/10/20 21:24:09 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/10/20 21:24:09 INFO  StepDefination:47 - Executed By :- PERSONAL$ on 10/03/2020 21:24:09
+03/10/20 21:24:09 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/10/20 21:24:09 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/10/20 21:24:09 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/10/20 21:24:09 INFO  StepDefination:51 - ======================================================================================
+03/10/20 21:24:09 INFO  StepDefination:52 -  Executing the TestCases
+03/10/20 21:24:10 INFO  StepDefination:97 - Setting Up the Browser
+03/10/20 21:25:13 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/10/20 21:25:13 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:25:13 INFO  StepDefination:120 - Entering user name and password
+03/10/20 21:25:21 INFO  StepDefination:126 - Clicking on the login Button
+03/10/20 21:25:23 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/10/20 21:25:23 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:25:33 INFO  StepDefination:145 - Creating new contact
+03/10/20 21:25:44 INFO  StepDefination:152 - Entering the contact credentials to create a contact
+03/10/20 21:26:03 INFO  StepDefination:155 - Saving the recently created contact
+03/10/20 21:26:10 INFO  StepDefination:159 - Fetching the created Contact Full Name
+03/10/20 21:26:10 INFO  StepDefination:163 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:26:10 INFO  StepDefination:173 - Removing the contacts
+03/10/20 21:26:14 INFO  StepDefination:84 - =========================================================
+03/10/20 21:26:14 INFO  StepDefination:85 - End of Scenario : S1 : Create contact Test Scenario
+03/10/20 21:26:14 INFO  StepDefination:86 - =========================================================
+03/10/20 21:26:14 INFO  StepDefination:87 -  
+03/10/20 21:26:14 INFO  StepDefination:88 -  
+03/10/20 21:26:31 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/10/20 21:26:32 INFO  StepDefination:46 - Scenario :- S1 : Create contact Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/10/20 21:26:32 INFO  StepDefination:47 - Executed By :- PERSONAL$ on 10/03/2020 21:26:31
+03/10/20 21:26:32 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/10/20 21:26:32 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/10/20 21:26:32 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/10/20 21:26:32 INFO  StepDefination:51 - ======================================================================================
+03/10/20 21:26:32 INFO  StepDefination:52 -  Executing the TestCases
+03/10/20 21:26:32 INFO  StepDefination:97 - Setting Up the Browser
+03/10/20 21:27:45 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/10/20 21:27:45 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:27:45 INFO  StepDefination:120 - Entering user name and password
+03/10/20 21:28:02 INFO  StepDefination:126 - Clicking on the login Button
+03/10/20 21:28:04 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/10/20 21:28:04 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:28:14 INFO  StepDefination:145 - Creating new contact
+03/10/20 21:28:24 INFO  StepDefination:152 - Entering the contact credentials to create a contact
+03/10/20 21:28:40 INFO  StepDefination:155 - Saving the recently created contact
+03/10/20 21:28:46 INFO  StepDefination:159 - Fetching the created Contact Full Name
+03/10/20 21:28:47 INFO  StepDefination:163 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:28:47 INFO  StepDefination:173 - Removing the contacts
+03/10/20 21:28:50 INFO  StepDefination:84 - =========================================================
+03/10/20 21:28:50 INFO  StepDefination:85 - End of Scenario : S1 : Create contact Test Scenario
+03/10/20 21:28:50 INFO  StepDefination:86 - =========================================================
+03/10/20 21:28:50 INFO  StepDefination:87 -  
+03/10/20 21:28:50 INFO  StepDefination:88 -  
+03/10/20 21:29:16 INFO  StepDefination:45 - =======================================  HEADER ======================================
+03/10/20 21:29:16 INFO  StepDefination:46 - Scenario :- S1 : Choose different options Test Scenario at :- C:\SELENIUM\Workspace\Cucumber
+03/10/20 21:29:16 INFO  StepDefination:47 - Executed By :- PERSONAL$ on 10/03/2020 21:29:16
+03/10/20 21:29:16 INFO  StepDefination:48 -     * OS Name :- Windows 8.1 v6.3
+03/10/20 21:29:16 INFO  StepDefination:49 -     * JVM Name :- Java HotSpot(TM) 64-Bit Server VM v25.112-b15
+03/10/20 21:29:16 INFO  StepDefination:50 -     * JAVA Home Directory :- C:\Program Files\Java\jdk1.8.0_112\jre v1.8.0_112-b15
+03/10/20 21:29:16 INFO  StepDefination:51 - ======================================================================================
+03/10/20 21:29:16 INFO  StepDefination:52 -  Executing the TestCases
+03/10/20 21:29:16 INFO  StepDefination:97 - Setting Up the Browser
+03/10/20 21:30:28 INFO  StepDefination:108 - Verifying the title of the Web Page
+03/10/20 21:30:28 INFO  StepDefination:110 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:30:28 INFO  StepDefination:120 - Entering user name and password
+03/10/20 21:31:58 INFO  StepDefination:126 - Clicking on the login Button
+03/10/20 21:32:18 INFO  StepDefination:133 - Verifying the title of the Application Page
+03/10/20 21:32:18 INFO  StepDefination:135 -  * WebPage Title is as expected. Hence verification successful.
+03/10/20 21:32:28 INFO  StepDefination:182 - Clicking on Contacts Option
+03/10/20 21:32:45 INFO  StepDefination:185 - Clicking on Companies Option
+03/10/20 21:33:04 INFO  StepDefination:188 - Clicking on Deals Option
+03/10/20 21:33:06 INFO  StepDefination:191 - Clicking on Tasks Option
+03/10/20 21:33:08 INFO  StepDefination:194 - Clicking on Cases Option
+03/10/20 21:33:09 INFO  StepDefination:197 - Clicking on Calls Option
+03/10/20 21:33:11 INFO  StepDefination:200 - Clicking on Documents Option
+03/10/20 21:33:12 INFO  StepDefination:203 - Clicking on Email Option
+03/10/20 21:33:14 INFO  StepDefination:206 - Clicking on Campaigns Option
+03/10/20 21:33:16 INFO  StepDefination:209 - Clicking on Form Option
+03/10/20 21:33:17 INFO  StepDefination:215 - Logging Out of the Application
+03/10/20 21:33:25 INFO  StepDefination:84 - =========================================================
+03/10/20 21:33:25 INFO  StepDefination:85 - End of Scenario : S1 : Choose different options Test Scenario
+03/10/20 21:33:25 INFO  StepDefination:86 - =========================================================
+03/10/20 21:33:25 INFO  StepDefination:87 -  
+03/10/20 21:33:25 INFO  StepDefination:88 -  

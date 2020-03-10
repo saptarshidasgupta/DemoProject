@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Hybrid Framework]">
+  <test thread-count="5" name="Free CRM test(failed)">
+    <classes>
+      <class name="Runner.TestRunner">
+        <methods>
+          <include name="feature"/>
+          <include name="setUpClass"/>
+          <include name="tesrDownClass"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- Runner.TestRunner -->
+    </classes>
+  </test> <!-- Free CRM test(failed) -->
+</suite> <!-- Failed suite [Hybrid Framework] -->
