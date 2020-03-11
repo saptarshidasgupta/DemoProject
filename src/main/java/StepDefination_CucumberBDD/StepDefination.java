@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -13,6 +14,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;
 import org.testng.Assert;
+
 import BaseUnit.App_Lib;
 import PageObjectClass.ContactPage;
 import cucumber.api.Scenario;
@@ -40,6 +42,8 @@ public class StepDefination extends App_Lib {
 	   logger = Logger.getLogger(StepDefination.class);
 	   PropertyConfigurator.configure("log4j2.properties");
 	   
+	   System.out.println("TestCaseID = "+System.getProperty("TestCaseID"));
+	   logger.info("TestCaseID = "+System.getProperty("TestCaseID"));
 	   
 	   String timeStamp = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss").format(new Date());//time stamp
 	   logger.info("=======================================  HEADER ======================================");
@@ -160,10 +164,10 @@ public class StepDefination extends App_Lib {
     	String ContactName = oCP.contactNameFetch();
     	
     	if(ContactName.equalsIgnoreCase(Firstname+" "+Lastname)==true) {
- 		   logger.info(" * WebPage Title is as expected. Hence verification successful.");
+ 		   logger.info(" * Contact Name is as expected. Hence verification successful.");
 	 	}
 	 	else {
-	 	   logger.warn(" (!) WebPage Title is not as expected. Hence verification failed.");
+	 	   logger.warn(" (!) Contact Name is not as expected. Hence verification failed.");
 	 	}
     	Assert.assertEquals(Firstname+" "+Lastname,ContactName); 
     	//Assert.assertEquals(ContactName,Firstname+" Ghosh");

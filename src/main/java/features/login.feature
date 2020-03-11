@@ -16,7 +16,7 @@ Feature: Free CRM login feature
     |Saptarshi|Dasgupta|Lead|
     |Riya|Ghosh|Customer|
 
-@Regression
+@SmokeTest
   Scenario: S2 : Free CRM Login Test Scenario
     Given User is already on login page
     When title of the page is Free CRM
